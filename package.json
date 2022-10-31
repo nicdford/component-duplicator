@@ -13,5 +13,10 @@
     },
     "dependencies": {
         "fs-extra": "^10.1.0"
-    }
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/nicdford/component-duplicator",
+		"directory": "/bin"
+	}
 }
