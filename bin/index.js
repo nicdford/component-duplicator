@@ -7,7 +7,6 @@ const cwd = process.cwd();
  * Component Duplicator
  * @param {string} srcComponentName - The name of the component to duplicate
  * @param {string} destComponentName - The name of the component to be created
- * `npx duplicate Button Chip`
  */
 const args = process.argv.slice(2);
 const srcComponentName = args[0];
