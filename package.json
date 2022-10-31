@@ -1,17 +1,17 @@
 {
-  "name": "component-duplicator",
-  "version": "1.0.0",
-  "description": "Tool to duplicate and rename component folders",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Nic D. Ford",
-  "license": "MIT",
-  "bin": {
-    "duplicate": "bin/index.js"
-  },
-  "dependencies": {
-    "fs-extra": "^10.1.0"
-  }
+    "name": "component-duplicator",
+    "version": "1.0.1",
+    "description": "Tool to duplicate and rename component folders",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Nic D. Ford",
+    "license": "MIT",
+    "bin": {
+        "duplicate": "bin/index.js"
+    },
+    "dependencies": {
+        "fs-extra": "^10.1.0"
+    }
 }
